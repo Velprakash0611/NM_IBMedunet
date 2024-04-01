@@ -11,7 +11,7 @@ This project implements a machine translation model using Long Short-Term Memory
 **LSTM-based Architecture:** Employs LSTMs to capture long-term dependencies present in natural language sequences.
 **Sequence-to-Sequence Learning:** Enables the model to translate entire sentences or paragraphs at once.
 **Text Preprocessing:** Includes techniques for cleaning, tokenization, and vectorization of text data.
-**Model Training:** Utilizes a suitable loss function (e.g., categorical cross-entropy) and optimizer (e.g., Adam) to train the model on a parallel corpus (paired source and target language datasets).
+**Model Training:** Utilizes a suitable loss function and optimizer to train the model on a parallel corpus (paired source and target language datasets).
 **Translation:** Allows you to use the trained model to translate text from the source language to the target language.
 
 **Requirements**
